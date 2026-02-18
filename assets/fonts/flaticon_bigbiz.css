@@ -1,0 +1,164 @@
+/*!
+*    ______ _       _   _
+*    |  ____| |     | | (_)
+*    | |__  | | __ _| |_ _  ___ ___  _ __
+*    |  __| | |/ _` | __| |/ __/ _ \| '_ \
+*    | |    | | (_| | |_| | (_| (_) | | | |
+*    |_|    |_|\__,_|\__|_|\___\___/|_| |_|
+*
+*         https://www.flaticon.com
+*/
+
+@font-face {
+    font-family: "flaticon_bigbiz";
+    src: url("flaticon_bigbiz12a8.woff2?d6bec6e401422790b57faf749aaa2a29") format("woff2"),
+url("flaticon_bigbiz12a8.woff?d6bec6e401422790b57faf749aaa2a29") format("woff"),
+url("flaticon_bigbiz12a8.html?d6bec6e401422790b57faf749aaa2a29#iefix") format("embedded-opentype"),
+url("flaticon_bigbiz12a8.ttf?d6bec6e401422790b57faf749aaa2a29") format("truetype"),
+url("flaticon_bigbiz12a8-2.html?d6bec6e401422790b57faf749aaa2a29#flaticon_bigbiz") format("svg")
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon_bigbiz !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-target-market:before {
+    content: "\f101";
+}
+.flaticon-layer:before {
+    content: "\f102";
+}
+.flaticon-brand:before {
+    content: "\f103";
+}
+.flaticon-promotion:before {
+    content: "\f104";
+}
+.flaticon-consultant:before {
+    content: "\f105";
+}
+.flaticon-experience:before {
+    content: "\f106";
+}
+.flaticon-branding:before {
+    content: "\f107";
+}
+.flaticon-guarantee:before {
+    content: "\f108";
+}
+.flaticon-innovation:before {
+    content: "\f109";
+}
+.flaticon-donut-chart:before {
+    content: "\f10a";
+}
+.flaticon-cloud-uploading:before {
+    content: "\f10b";
+}
+.flaticon-medical-assistance:before {
+    content: "\f10c";
+}
+.flaticon-24-hours-support:before {
+    content: "\f10d";
+}
+.flaticon-clean-tooth:before {
+    content: "\f10e";
+}
+.flaticon-root-canal:before {
+    content: "\f10f";
+}
+.flaticon-dental-checkup:before {
+    content: "\f110";
+}
+.flaticon-implant:before {
+    content: "\f111";
+}
+.flaticon-braces:before {
+    content: "\f112";
+}
+.flaticon-successful:before {
+    content: "\f113";
+}
+.flaticon-checkmark:before {
+    content: "\f114";
+}
+.flaticon-trophy:before {
+    content: "\f115";
+}
+.flaticon-doctor:before {
+    content: "\f116";
+}
+.flaticon-burger-bar:before {
+    content: "\f117";
+}
+.flaticon-satisfaction:before {
+    content: "\f118";
+}
+.flaticon-emergency-light:before {
+    content: "\f119";
+}
+.flaticon-ev:before {
+    content: "\f11a";
+}
+.flaticon-leaves:before {
+    content: "\f11b";
+}
+.flaticon-charging-station:before {
+    content: "\f11c";
+}
+.flaticon-charging-station-1:before {
+    content: "\f11d";
+}
+.flaticon-electric-car:before {
+    content: "\f11e";
+}
+.flaticon-electric-station:before {
+    content: "\f11f";
+}
+.flaticon-gdpr:before {
+    content: "\f120";
+}
+.flaticon-operation:before {
+    content: "\f121";
+}
+.flaticon-global:before {
+    content: "\f122";
+}
+.flaticon-friends:before {
+    content: "\f123";
+}
+.flaticon-financial-growth:before {
+    content: "\f124";
+}
+.flaticon-retirement-plan:before {
+    content: "\f125";
+}
+.flaticon-taxes:before {
+    content: "\f126";
+}
+.flaticon-risk-management:before {
+    content: "\f127";
+}
+.flaticon-financial:before {
+    content: "\f128";
+}
+.flaticon-insurance:before {
+    content: "\f129";
+}
+.flaticon-map:before {
+    content: "\f12a";
+}
+.flaticon-phone:before {
+    content: "\f12b";
+}
+.flaticon-mail:before {
+    content: "\f12c";
+}
+
